@@ -1,0 +1,4 @@
+motoresdebusqueda\dogpile\Pageobjects\DogpilePaginaPrincipal.class
+motoresdebusqueda\dogpile\Pageobjects\DogpilePaginaResultado.class
+motoresdebusqueda\dogpile\steps\UsuarioDogpile.class
+motoresdebusqueda\dogpile\CuandoEjecutamosUnaBusqueda.class
