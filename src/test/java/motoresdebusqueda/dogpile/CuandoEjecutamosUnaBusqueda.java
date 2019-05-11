@@ -32,6 +32,7 @@ public class CuandoEjecutamosUnaBusqueda {
       gonza.buscar_por_palabra_clave("rock nacional");
       gonza.debería_ver_resultado_de_titulo_con_texto_correcto("Argentine rock - Wikipedia",
               "Argentine Rock Nacional is one of the principal predecessors");
+        System.out.println("Ver si se sube esto");
 
 
     }

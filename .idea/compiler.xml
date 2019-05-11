@@ -9,5 +9,8 @@
         <module name="DogPileWebSerenity" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="DogPileWebSerenity" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

@@ -1,2 +1,3 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"Cuando ejecutamos una busqueda","Deberiamos ver resultados relevantes","SUCCESS","2019-05-09T10:40:01.295-03:00[America/Buenos_Aires]","0.0","12.86"
+"Cuando ejecutamos una busqueda","Resultados de wikipedia contiene text correcto","SUCCESS","2019-05-10T20:45:08.844-03:00[America/Buenos_Aires]","0.0","25.68"
+"Cuando ejecutamos una busqueda","Deberiamos ver resultados relevantes","SUCCESS","2019-05-10T20:45:35.369-03:00[America/Buenos_Aires]","0.0","16.19"
